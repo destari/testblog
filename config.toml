@@ -1,0 +1,4 @@
+baseURL = "https://blog.epa.io/"
+languageCode = "en-us"
+title = "Eric's Hugo Site"
+theme = "ananke"
